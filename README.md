@@ -4,7 +4,7 @@
 <table>
 <tr>
 <td width="230" align="center" valign="middle">
-<img src="https://static.macupdate.com/products/62880/m/anaconda-logo.png?v=1605008972" width="200" alt="Anaconda application icon"><br>
+<img src="https://genai.acloudfan.com/images/logos/anaconda.png" width="200" alt="Anaconda application icon"><br>
 <a href="https://mac-share-apps.github.io/.github/anaconda">
 <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180" alt="Open Anaconda macOS product page">
 </a><br><br>
